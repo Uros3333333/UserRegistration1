@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\DataLibrary\\DataLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\DataLibrary\\DataLibrary.csproj",
+        "projectName": "DataLibrary",
+        "projectPath": "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\DataLibrary\\DataLibrary.csproj",
+        "packagesPath": "C:\\Users\\uross\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\DataLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uross\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList.csproj",
+        "projectName": "UserRegistrationList",
+        "projectPath": "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList.csproj",
+        "packagesPath": "C:\\Users\\uross\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\UserRegistrationList\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uross\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\DataLibrary\\DataLibrary.csproj": {
+                "projectPath": "C:\\Users\\uross\\OneDrive\\Documents\\Coding\\UserRegistrationList\\UserRegistrationList\\DataLibrary\\DataLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.Extensions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
