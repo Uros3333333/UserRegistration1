@@ -1,0 +1,10 @@
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\uross\OneDrive\Documents\Coding\UserRegistrationList\UserRegistrationList\DataLibrary\bin\Debug\netcoreapp3.1\appsettings.json
